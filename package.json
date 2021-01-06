@@ -6,7 +6,7 @@
     "@ant-design/dark-theme": "^2.0.2",
     "@ant-design/icons": "^4.1.0",
     "antd": "^4.2.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "history": "^4.10.1",
     "jwt-decode": "^2.2.0",
     "react": "^16.13.1",
